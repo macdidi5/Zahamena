@@ -41,10 +41,10 @@
 
 ## Zahamena
 
-![Zahamena](https://raw.githubusercontent.com/macdidi5/Zahamena/master/resources/zahamena13.jpg)
+![Zahamena](https://raw.githubusercontent.com/macdidi5/Zahamena/master/resources/ZahamenaS.jpg)
 
 馬達加斯加國家公園，在馬達加斯加東部，距離首都約400公里，佔地面積42300公頃。屬於典型的熱帶雨林生態，常年濕潤，原始茂密的植被保證了物種的多樣性，該保護區也在2007年整體入選世界自然遺產。這裡代表性的動植物包括13種狐猴，48種爬行動物，62種兩棲動物，109種鳥類和多達700多種植物。
 
-![CouaCristata](https://raw.githubusercontent.com/macdidi5/Zahamena/master/resources/CouaCristata.jpg)
+![CouaCristata](https://raw.githubusercontent.com/macdidi5/Zahamena/master/resources/CouaCristataS.jpg)
 
 鳳頭馬島鵑，容易在Zahamena國家公園看到，與科奎氏馬島鵑，紅頂馬島鵑都屬島鵑科，中等身型，身長大約44厘米，頭冠綠灰色，藍裸色眼睛，胸脯紅褐色，嘴巴和腿部為黑色，腹部白色，紫藍色尾翼，尾翼末端呈白色，長而尖，棲在枝頭時常上下翹動。
