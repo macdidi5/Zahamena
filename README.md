@@ -1,12 +1,12 @@
 # Android APP程式開發剖析 第三版
 
-出版：[松崗](http://www.kingsinfo.com.tw/module.php?i=item&tid=8506)
-ISBN：9789572246580
-頁數：816 頁
-開數：17x23公分
-色彩：單色
-日期：2017 年 12 月 22 日
-定價：650 元
+* 出版：[松崗](http://www.kingsinfo.com.tw/module.php?i=item&tid=8506)
+* ISBN：9789572246580
+* 頁數：816 頁
+* 開數：17x23公分
+* 色彩：單色
+* 日期：2017 年 12 月 22 日
+* 定價：650 元
 
 ## 購買
 
