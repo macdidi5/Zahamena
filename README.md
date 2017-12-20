@@ -8,8 +8,6 @@
 * 日期：2017 年 12 月 22 日
 * 定價：650 元
 
-![Cover](https://raw.githubusercontent.com/macdidi5/Zahamena/master/resources/cover.jpg)
-
 ## 購買
 
 * 天瓏網路書店
