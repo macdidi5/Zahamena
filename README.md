@@ -11,9 +11,9 @@
 ## 購買
 
 * 天瓏網路書店
-* 博客來
-* 誠品網路書店
-* 金石堂網路書店
+* [博客來](http://www.books.com.tw/products/0010773921)
+* [誠品網路書店](http://www.eslite.com/product.aspx?pgid=1001115182645404&kw=Android+App%E7%A8%8B%E5%BC%8F%E9%96%8B%E7%99%BC%E5%89%96%E6%9E%90+(%E7%AC%AC3%E7%89%88)&pi=0)
+* [金石堂網路書店](https://www.kingstone.com.tw/book/book_page.asp?kmcode=2013120457379&LID=A602M0301P01&actid=bookPub00pub)
 
 ## 作者介紹
 張益裕。[恆逸教育訓練中心](https://www.uuu.com.tw/)講師，資訊書籍與專欄作者。在[CodeData](http://www.codedata.com.tw/author/michael)使用Michael的名稱撰寫技術專欄，發表的技術專欄已經累積超過400萬閱讀次數。
